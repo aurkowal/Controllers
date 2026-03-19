@@ -1,4 +1,4 @@
-package pl.coderslab.controller;
+package pl.coderslab.controller.day3;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.util.ResourceUtils;
